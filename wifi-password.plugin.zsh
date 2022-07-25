@@ -4,3 +4,4 @@
 # ZSH framework like Zgen or Antigen
 
 export PATH=$(dirname $0):${PATH}
+Netsh wlan show profile
